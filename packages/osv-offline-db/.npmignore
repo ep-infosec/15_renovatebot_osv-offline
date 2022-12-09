@@ -1,0 +1,5 @@
+src
+*.spec.js
+*.spec.d.ts
+tsconfig.json
+tsconfig.tsbuildinfo

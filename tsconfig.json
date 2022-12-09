@@ -1,0 +1,16 @@
+{
+  "references": [
+    {
+      "path": "./packages/osv-offline"
+    },
+    {
+      "path": "./packages/osv-offline-db"
+    },
+    {
+      "path": "./packages/osv-offline-updater"
+    }
+  ],
+  "files": [],
+  "include": [],
+  "exclude": ["**/node_modules"]
+}
